@@ -4,7 +4,6 @@ Backend-focused software engineer interested in distributed systems and AI-power
 
 I spend most of my time thinking about system design, scalability, reliability, and how large language models can be applied to real-world software. I enjoy building things end-to-end and understanding the trade-offs behind architectural decisions.
 
-This GitHub profile is a place where I document my learning, experiments, and side projects.
 
 ---
 
