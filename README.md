@@ -35,8 +35,3 @@ This GitHub profile is a place where I document my learning, experiments, and si
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ---
-
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wuxioawu&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wuxioawu&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wuxioawu.Wuxioawu)
