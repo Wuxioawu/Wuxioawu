@@ -22,15 +22,48 @@ I spend most of my time thinking about system design, scalability, reliability, 
 
 ---
 
-### Languages & Tools
+### Programming Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=postgresql&style=social)
+![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)
+![JPA](https://img.shields.io/badge/-JPA-black?logo=java&style=social)
+![React](https://img.shields.io/badge/-React-black?logo=react&style=social)
 
-![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+### Microservices & API Development
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-black?logo=swagger&style=social)
+![API Integration](https://img.shields.io/badge/-API%20Integration-black?logo=postman&style=social)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=social)
+![Lambda](https://img.shields.io/badge/-Lambda-black?logo=aws-lambda&style=social)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-black?logo=aws&style=social)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-black?logo=amazondynamodb&style=social)
+![S3](https://img.shields.io/badge/-S3-black?logo=amazons3&style=social)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?logo=jenkins&style=social)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)
+
+### Development Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)
+![Maven](https://img.shields.io/badge/-Maven-black?logo=apachemaven&style=social)
+![Gradle](https://img.shields.io/badge/-Gradle-black?logo=gradle&style=social)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-black?logo=intellijidea&style=social)
+![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)
+![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=social)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?logo=androidstudio&style=social)
+
+### Project Management & Collaboration
+![Agile](https://img.shields.io/badge/-Agile-black?logo=agilealliance&style=social)
+![Jira](https://img.shields.io/badge/-Jira-black?logo=jira&style=social)
+![Teamwork](https://img.shields.io/badge/-Teamwork-black?logo=slack&style=social)
 
 ---
