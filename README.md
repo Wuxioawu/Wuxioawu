@@ -33,9 +33,5 @@ This GitHub profile is a place where I document my learning, experiments, and si
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Code-Java-007396?style=flat&logo=java);
-![Backend](https://img.shields.io/badge/Focus-Backend%20Development-blue?style=flat);
-![Distributed Systems](https://img.shields.io/badge/Research-Distributed%20Systems-important?style=flat);
-
 
 ---
